@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">collegepro</string>
+    <string name="t1">+ Add</string>
+    <string name="t2">Remind me to...</string>
+    <string name="t3">Description(Optional)</string>
+    <string name="t4">Category</string>
+    <string name="t5">Alarm</string>
+    <string name="t6">Notification</string>
+    <string name="t7">Time</string>
+    <string name="t8">Date</string>
+    <string name="t9">Remind Me at</string>
+</resources>
